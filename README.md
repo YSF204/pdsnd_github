@@ -6,6 +6,10 @@
 
 This project analyzes bikeshare data from major U.S. cities to uncover usage patterns, trip durations, and user demographics. It uses Python and Pandas to perform interactive data analysis based on user input.
 
+## Project Purpose
+
+This project is part of Udacity's Programming for Data Science Nanodegree. The goal is to practice version control with Git and GitHub by managing and refactoring a Python project using proper Git workflows.
+
 ## Files Included
 
 - `bikeshare.py` – Main Python script for user-driven data analysis  
