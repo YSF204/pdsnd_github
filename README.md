@@ -17,6 +17,18 @@ This project is part of Udacity's Programming for Data Science Nanodegree. The g
 - `README.md` – Project overview and documentation  
 - Data files (e.g., `chicago.csv`, `new_york_city.csv`, `washington.csv`) – *Excluded from repo*
 
+## How to Run
+
+1. Clone this repository.
+2. Make sure Python 3 is installed.
+3. Run the script using:
+
+    ```bash
+    python bikeshare.py
+    ```
+
+4. Follow the prompts to filter and analyze the data.
+
 ## Credits
 
 - Project developed as part of the **Udacity Programming for Data Science** course  
