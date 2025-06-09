@@ -26,6 +26,8 @@ def get_filters():
     print('*'*50 + '\nWelcome to the Bikeshare Analysis Program!\n' + '*'*50)
 
     print('-'*40)
+    
+    print(f'Analyzing data for {city.title()} on {day.title()} in {month.title()}')
     return city, month, day
 
 
